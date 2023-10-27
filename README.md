@@ -13,7 +13,6 @@ This project is designed to handle form submissions through Netlify. Netlify is 
 - [Configuration](#configuration)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
